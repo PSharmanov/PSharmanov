@@ -1,16 +1,30 @@
-## Hi there 👋
+# Привет! Меня зовут Павел 👋
 
-<!--
-**PSharmanov/PSharmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Java-разработчик с опытом работы менее 1 года. 
+Моя специализация включает разработку бэкенд-приложений, микросервисов и работа с базами данных.
+Мой опыт включает работу в команде и самостоятельную разработку.
 
-Here are some ideas to get you started:
+## 💻 Технологии
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Язык программирования: Java
+- Фреймворки: Spring, Hibernate
+- Базы данных: PostgreSQL
+- Инструменты: Git, Maven, Docker, Postman
+
+
+![Java](https://camo.githubusercontent.com/bea90da226e09b503e6c8fde824f4816b98dcf30cd31e803006bf6335af06890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465)
+![Spring](https://camo.githubusercontent.com/9ee242f2c2b1eb587f7e42704b3a0629082aac88f66fff96d34723f777b07775/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672d2532333644423333462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465)
+![Hibernate](https://camo.githubusercontent.com/b0223dc941b9e1ddf32695517d822430e5cff521eb46d70015c34749114d7c65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48696265726e6174652d3539363636433f7374796c653d666f722d7468652d6261646765266c6f676f3d48696265726e617465266c6f676f436f6c6f723d7768697465)
+![PostgreSQL](https://camo.githubusercontent.com/544022edf8369d944e68802fc043b0268484709e334d23db2882590aeae296cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
+![Git](https://camo.githubusercontent.com/94d83dc5838e2784bee25fe9e019bc2fda128676f32cef2f06baa0f6f3849b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+![Maven](https://camo.githubusercontent.com/cfd93afae2e23a0768b3632b29f11ca4a0629ae6b6eb1d926abd1a1bafb46109/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4170616368652532304d6176656e2d4337314133363f7374796c653d666f722d7468652d6261646765266c6f676f3d4170616368652532304d6176656e266c6f676f436f6c6f723d7768697465)
+![Docker](https://camo.githubusercontent.com/c9a85f6869aa992f1500dd9d4d4bdff7d405605292ca152587394c1f92552d4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
+![Postman](https://camo.githubusercontent.com/cf06fedcca8eedc2ebcf41a87c79ae200b8e7f79b65a9c2dcd833d1990bd3290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465)
+
+
+## 📫 Как со мной связаться
+
+- Email: [sharmanov88@yandex.ru](mailto:sharmanov88@yandex.ru)
+- Telegram: [@OzPavelS](https:////t.me/OzPavelS)
+
+Спасибо за визит! 😊
